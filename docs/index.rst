@@ -9,9 +9,10 @@ Install
 
 To install:
 
-.. code-block:: bash
+'''
 
     pip install agate-excel
+'''
 
 For details on development or supported platforms see the `agate documentation <http://agate.readthedocs.org>`_.
 
